@@ -58,12 +58,19 @@ Graduado em **Engenharia de Produção** pela UFERSA, atuo como **Assistente Fin
 ---
 
 ### 🔨 Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,py)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,py" />
+  </a>
+</p>
 
 ---
 
 ### 📬 Contatos
+<div align="center">
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gideaofigueiredo)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/gideaofigueiredo)
 [![E-mail](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gideao.figueiredo@hotmail.com)
+
+</div>
