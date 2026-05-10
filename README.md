@@ -38,9 +38,9 @@ Graduado em **Engenharia de Produção** pela UFERSA, atuo como **Assistente Fin
  
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [🤖 RoboANTT](https://github.com/gideaofigueiredo/robo-antt) | Automação do processo de adição de passageiros no sistema da ANTT | Python |
-| [🖥️ RoboANTT GUI](https://github.com/gideaofigueiredo/RoboANTT-GUI) | Versão desktop com interface gráfica do RoboANTT | Python |
-| [📄 Sistema de Autorização de Compra](https://github.com/gideaofigueiredo/sistema-autorizacao-compra) | Emissão de autorizações de compra em PDF | Python |
+| [🤖 RoboANTT](https://github.com/gideaofigueiredo/robo-antt) | Automação do processo de adição de passageiros no sistema da ANTT | Python · Playwright |
+| [🖥️ RoboANTT GUI](https://github.com/gideaofigueiredo/RoboANTT-GUI) | Versão desktop com interface gráfica do RoboANTT | Python · Playwright · Tkinter |
+| [📄 Sistema de Autorização de Compra](https://github.com/gideaofigueiredo/sistema-autorizacao-compra) | Emissão de autorizações de compra em PDF | Python · Flet |
 | [💬 Streamlit Chatbot com IA](https://github.com/gideaofigueiredo/streamlit-chatbot-with-ai) | Chatbot web usando Google Gemini API | Python · Streamlit |
 | [📱 Telegram Chatbot com IA](https://github.com/gideaofigueiredo/telegram-chatbot-with-ai) | Bot para Telegram integrado ao Google Gemini | Python |
 | [📊 Análise de Cancelamento de Clientes](https://github.com/gideaofigueiredo/analise-cancelamento-clientes) | Análise de churn com pandas e visualizações interativas | Python · Pandas · Plotly |
