@@ -44,14 +44,18 @@ Graduado em **Engenharia de Produção** pela UFERSA, atuo como **Assistente Fin
 | [💬 Streamlit Chatbot com IA](https://github.com/gideaofigueiredo/streamlit-chatbot-with-ai) | Chatbot web usando Google Gemini API | Python · Streamlit |
 | [📱 Telegram Chatbot com IA](https://github.com/gideaofigueiredo/telegram-chatbot-with-ai) | Bot para Telegram integrado ao Google Gemini | Python |
 | [📊 Análise de Cancelamento de Clientes](https://github.com/gideaofigueiredo/analise-cancelamento-clientes) | Análise de churn com pandas e visualizações interativas | Python · Pandas · Plotly |
+| [🚗 DETRAN/RN - Extrator de Débitos Veiculares](https://github.com/gideaofigueiredo/detran-rn-debitos-scraper) | Web scraper para extração automática de débitos veiculares do portal do DETRAN/RN | Python · Playwright |
  
 ---
 
 ### 📈 GitHub Stats
  
 <div align="center">
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=gideaofigueiredo&hide_border=true&background=ffffff&ring=185FA5&fire=185FA5&currStreakLabel=185FA5&sideLabels=444441&dates=888780)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gideaofigueiredo&theme=dark"/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gideaofigueiredo&theme=dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gideaofigueiredo&theme=dark"/><br/>
+<img src="https://streak-stats.demolab.com?user=gideaofigueiredo&theme=dark&hide_border=true"/>
  
 </div>
 
