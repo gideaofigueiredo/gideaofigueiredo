@@ -63,8 +63,8 @@ Graduado em **Engenharia de Produção** pela UFERSA, atuo como **Assistente Fin
 
 ### 🔨 Ferramentas e Tecnologias
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,py" />
+  <a href="https://skills.syvixor.com/api/icons?perline=15&i=windows,git,github,visualstudiocode,python,pandas,playwright,streamlit,plotly,jupyter,sql,googlecolaboratory">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=windows,git,github,visualstudiocode,python,pandas,playwright,streamlit,plotly,jupyter,sql,googlecolaboratory" />
   </a>
 </p>
 
